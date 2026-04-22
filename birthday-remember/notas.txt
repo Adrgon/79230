@@ -1,0 +1,8 @@
+npx create-expo-app@latest
+npx create-expo-app --template
+
+TEMPLATES
+blank-typescript
+tabs
+bare-minimun
+
